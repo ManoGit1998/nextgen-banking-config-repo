@@ -1,1 +1,5 @@
--- cutomer yml file
+server:
+  port: 8081
+
+message:
+  text: Hello from Config Server
